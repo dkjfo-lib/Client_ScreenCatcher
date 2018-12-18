@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Client_Catcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Client_Catcher_jar</output-path>
+    <root id="archive" name="Client_Catcher.jar">
+      <element id="module-output" name="Client_Catcher" />
+    </root>
+  </artifact>
+</component>
